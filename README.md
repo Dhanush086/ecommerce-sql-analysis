@@ -193,3 +193,7 @@ ORDER BY NumOrders DESC;
 
 Requires PostgreSQL. Tested in pgAdmin.
 
+## Author
+
+**Dhanush**
+Data Analytics | Python | Pandas | Power BI | Data Visualization
