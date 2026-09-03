@@ -172,7 +172,7 @@ ORDER BY NumOrders DESC;
 ---
 
 ## Key Insights & Recommendations
-1. Electronics leads category revenue, but Running Shoes (Clothing) is the single best-selling product — revenue leadership comes from product breadth, not one item.
+1. Clothing narrowly leads category revenue (₹834.98 vs Electronics' ₹789.35), and its top product — Running Shoes — is also the single best-selling item overall, showing Clothing's strength comes from both breadth and one standout product.
 2. 8 customers (above-average spenders) are strong candidates for a loyalty program.
 3. 15% of customers have never ordered, all recent signups — worth investigating onboarding.
 4. 13% of products have zero sales — Cookbook and Face Moisturizer should be reviewed for promotion or removal.
