@@ -41,9 +41,9 @@ WHERE o.Status = 'Delivered'
 GROUP BY p.Category
 ORDER BY TotalRevenue DESC;
 ```
-![Query 2 Output](screenshots/query2.png)
+![Query 2 Output](screenshots/q2.png)
 
-**Insight:** Electronics is the top-performing category, generating ₹1,005.32 across 13 orders.
+**Insight:** Clothing is the top-performing category, generating ₹834.98 across 12 orders — narrowly ahead of Electronics (₹789.35, 10 orders).
 
 ---
 
