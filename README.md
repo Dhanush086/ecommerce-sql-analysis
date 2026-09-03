@@ -9,6 +9,9 @@ like which products and customers drive the most revenue, which show no
 activity, and how order fulfillment is trending — then translated the results 
 into clear insights.
 
+## Database Schema
+![ER Diagram](screenshots/er_diagram.png)
+
 ## Tech Stack
 - PostgreSQL (pgAdmin)
 
@@ -41,7 +44,7 @@ WHERE o.Status = 'Delivered'
 GROUP BY p.Category
 ORDER BY TotalRevenue DESC;
 ```
-![Query 2 Output](screenshots/q2.png)
+![Query 2 Output](screenshots/query2.png)
 
 **Insight:** Clothing is the top-performing category, generating ₹834.98 across 12 orders — narrowly ahead of Electronics (₹789.35, 10 orders).
 
