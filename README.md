@@ -183,3 +183,13 @@ ORDER BY NumOrders DESC;
 - `sample_data.sql` — sample data (20 customers, 15 products, 40 order line items)
 - `analysis_queries.sql` — all 9 business analysis queries
 - `screenshots/` — query output screenshots
+  
+--- 
+
+## How to Run
+1. Run `schema.sql` first — creates the Customers, Products, and Orders tables.
+2. Run `sample_data.sql` next — populates the tables with sample data.
+3. Run `analysis_queries.sql` — executes the 9 business analysis queries.
+
+Requires PostgreSQL. Tested in pgAdmin.
+
